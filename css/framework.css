@@ -9441,6 +9441,9 @@
 .bg_black {
   background: #000000; }
 
+.bg_black_light {
+  background: #1b1a1c; }
+
 .bg_black_hover {
   background: #272727; }
 
